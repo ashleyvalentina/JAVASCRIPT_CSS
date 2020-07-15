@@ -1,0 +1,32 @@
+body{
+	background-color: #eee;
+}
+#parrafo{
+
+	color: green;
+}
+
+.etiqueta{
+	color: #333399;
+}
+.caja{
+	margin: 8PX;
+	padding: 8px;
+	background-color: #aaf
+
+}
+.caja1{
+	background-color: #99FFFF;
+	height: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+
+}
+.caja2{
+	background-color: #8000FF;
+	height: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
