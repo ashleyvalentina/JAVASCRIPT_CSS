@@ -1,0 +1,40 @@
+body{
+	background-color: #E6E6E6;
+}
+.caja1{
+	margin-left: 50px;
+	margin-right: 200px;
+	padding: 8px;
+	border-left: 2px solid #B0B0B0;
+	border-right: 2px solid #B0B0B0;
+	border-bottom: 1px solid #B0B0B0;
+	background-color: #FFFFFF;
+}
+.caja2{
+	margin-left: 50px;
+	margin-right: 200px;
+	padding: 8px;
+	border-left: 2px solid #B0B0B0;
+	border-right: 2px solid #B0B0B0;
+	border-bottom: 1px solid #B0B0B0;
+	background-color: #FFFFFF;
+}
+.caja3{
+	margin-left: 50px;
+	margin-right: 200px;
+	padding: 8px;
+	border-left: 2px solid #B0B0B0;
+	border-right: 2px solid #B0B0B0;
+	border-bottom: 2px solid #B0B0B0;
+	background-color: #FFFFFF;
+}
+.botonprimario{
+	background-color: #1C6BE3;
+	color: #FFFFFF;
+	height: 24px;
+}
+.botonsecundario{
+	background-color: #A4A4A4;
+	color: #FFFFFF;
+	height: 24px;
+}
